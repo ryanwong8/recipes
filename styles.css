@@ -12,3 +12,9 @@
     background-color: yellow;
 }
 */
+
+img {
+    border: black;
+    border-style: solid;
+    border-radius: 12px;
+}
